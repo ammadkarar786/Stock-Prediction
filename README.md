@@ -34,9 +34,9 @@ This project is open-source and available under the [MIT License](LICENSE).
 
 ## Contact
 
-- Author: Your Name
-- Email: your@email.com
-- GitHub: [Your GitHub Profile](https://github.com/your-username)
+- Author: Ammad Sohail Karar
+- Email: ammadkararuni@gmail.com
+- GitHub: [Your GitHub Profile]([https://github.com/your-username](https://github.com/ammadkarar786))
 
 Feel free to reach out if you have any questions or feedback!
 
